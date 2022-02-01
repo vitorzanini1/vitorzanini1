@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Vitor Gabriel
- 
-- 🌱 Buscando evoluir cada vez mais
- 
+
 <div align="center">
   <a href="https://github.com/vitorzanini1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorzanini1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
